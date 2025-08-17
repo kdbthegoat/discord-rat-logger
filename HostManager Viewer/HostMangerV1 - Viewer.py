@@ -1,5 +1,5 @@
 """
-Safe Auto Screenshot with Discord Upload (Background Mode)
+Safe Discord logger
 Requirements:
     pip install pillow requests
 """
@@ -86,3 +86,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
